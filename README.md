@@ -19,11 +19,3 @@ The `/small datasets` directory contains small datasets that are less than 25MB 
 ### Experiment Results
 
 Results from experiments conducted using the SKGB program can be found in the `/experiment results` directory. This includes output files and analysis generated from running the SKGB algorithm on various datasets.
-
-## Usage
-
-1. **Clone the Repository:**
-
-   ```sh
-   git clone https://github.com/MarveenLee/The-Algorithm.git
-   cd The-Algorithm
